@@ -1,20 +1,12 @@
 ## Welcome to my GitHub page!
 ### A Physics graduate student trying to not 'code like a Physicist.'
-## 🛠️ Languages and Tools
-
+## Projects
 <br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
-</p>
-
-<hr
-<br>
-<div align="center">
-  <a href="melleb11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
   </a>
+</div>
+
+<br>
   <a href="https://www.linkedin.com/in/melle-bolding-699367282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
