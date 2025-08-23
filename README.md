@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page!
-### A Physics graduate student trying to not 'code like a Physicist.'
-## Projects
+#### A Physics graduate student trying to not 'code like a Physicist.'
+### Projects
 <br>
   <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
     📂 Bachelor Thesis Codes
@@ -11,12 +11,10 @@
 <a href="mailto:yourname@example.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/melle-bolding-699367282/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 </div>
-
 <hr>
 <!--
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
