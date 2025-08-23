@@ -1,5 +1,5 @@
 ## Welcome to my GitHub page!
-About me: I'm a Physics graduate student trying to not 'code like a Physicist.' 
+About me: I'm a physics graduate student trying to not 'code like a physicist.' 
 
 Mostly, I have a bit of experience using Python (some PyTorch) and some small projects in C++.
 
