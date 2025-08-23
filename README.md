@@ -6,6 +6,7 @@
 <a href="https://github.com/mellebolding/FairShip" target="_blank">
   📂 SHiP @ CERN (not active)
 </a>
+</div>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
   📂 Bachelor Thesis Codes (not active)
 </a>
