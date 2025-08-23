@@ -1,5 +1,7 @@
 ## Welcome to my GitHub page!
-About me: I'm a Physics graduate student trying to not 'code like a Physicist.'
+About me: I'm a Physics graduate student trying to not 'code like a Physicist.' 
+
+Mostly, I have experience using Python (some PyTorch) and some small projects in C++.
 
 ### Current Projects
 <a href="https://github.com/mellebolding/FDT_ADNI" target="_blank">
