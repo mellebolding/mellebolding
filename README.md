@@ -21,7 +21,7 @@
 </a>
 <br>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
-  📂 Bachelor Thesis Codes (jul23)
+  📂 BSc thesis (jul23)
 </a>
 
 <br><br>
