@@ -15,7 +15,7 @@
 </a>
 <br>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
-  📂 Bachelor Thesis Codes (not active since aug23)
+  📂 Bachelor Thesis Codes (not active since jul23)
 </a>
 
 <br><br>
