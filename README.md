@@ -3,7 +3,7 @@
 
 ### Current Projects
 <a href="https://github.com/mellebolding/FDT_ADNI" target="_blank">
-  📂 MSc thesis
+  📂 MSc thesis: whole-brain FDT Alzheimer's
 </a>
 <br>
 
@@ -21,7 +21,7 @@
 </a>
 <br>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
-  📂 BSc thesis (jul23)
+  📂 BSc thesis: PYTHIA simulations (jul23)
 </a>
 
 <br><br>
