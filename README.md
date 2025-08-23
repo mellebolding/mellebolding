@@ -10,6 +10,10 @@
   📂 SHiP @ CERN (not active since sep24)
 </a>
 <br>
+<a href="https://github.com/mellebolding/ML4PHY24" target="_blank">
+  📂 Mini-project on curriculum learning (not active since jun24)
+</a>
+<br>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
   📂 Bachelor Thesis Codes (not active since aug23)
 </a>
