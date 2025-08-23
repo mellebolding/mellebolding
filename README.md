@@ -3,7 +3,7 @@
 
 ### Current Projects
 <a href="https://github.com/mellebolding/FDT_ADNI" target="_blank">
-  📂 Master Thesis Codes (active)
+  📂 MSc thesis
 </a>
 <br>
 
