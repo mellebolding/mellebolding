@@ -2,13 +2,16 @@
 #### A Physics graduate student trying to not 'code like a Physicist.'
 
 ### Projects
-
+<a href="https://github.com/mellebolding/FDT_ADNI" target="_blank">
+  📂 Master Thesis Codes (active)
+</a>
+<br>
 <a href="https://github.com/mellebolding/FairShip" target="_blank">
-  📂 SHiP @ CERN (not active)
+  📂 SHiP @ CERN (not active since sep24)
 </a>
 <br>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
-  📂 Bachelor Thesis Codes (not active)
+  📂 Bachelor Thesis Codes (not active since aug23)
 </a>
 
 <br><br>
