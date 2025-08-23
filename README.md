@@ -1,5 +1,6 @@
 ## Welcome to my GitHub page!
 #### A Physics graduate student trying to not 'code like a Physicist.'
+<br>
 ### Projects
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
   📂 Bachelor Thesis Codes
