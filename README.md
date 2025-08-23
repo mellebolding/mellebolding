@@ -1,8 +1,16 @@
 ## Welcome to my GitHub page!
-### A Physics graduate student trying not to 'code like a Physicist.'
+### A Physics graduate student trying to not 'code like a Physicist.'
+## 🛠️ Languages and Tools
 
 <br>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr
+<br>
 <div align="center">
   <a href="melleb11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
