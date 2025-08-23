@@ -1,5 +1,5 @@
 ## Welcome to my GitHub page!
-#### A Physics graduate student trying to not 'code like a Physicist.'
+About me: I'm a Physics graduate student trying to not 'code like a Physicist.'
 
 ### Current Projects
 <a href="https://github.com/mellebolding/FDT_ADNI" target="_blank">
