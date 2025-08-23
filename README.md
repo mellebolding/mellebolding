@@ -1,13 +1,11 @@
 ## Welcome to my GitHub page!
 #### A Physics graduate student trying to not 'code like a Physicist.'
 ### Projects
-<br>
-  <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
-    📂 Bachelor Thesis Codes
-  </a>
-</div>
+<a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
+  📂 Bachelor Thesis Codes
+</a>
 
-<br><br>
+<br>
 <a href="mailto:yourname@example.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
