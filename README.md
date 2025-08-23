@@ -3,13 +3,18 @@
 ## Projects
 <br>
   <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
+    📂 Bachelor Thesis Codes
   </a>
 </div>
 
-<br>
-  <a href="https://www.linkedin.com/in/melle-bolding-699367282/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<br><br>
+<a href="mailto:yourname@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/melle-bolding-699367282/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
 </div>
 
 <hr>
