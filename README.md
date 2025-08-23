@@ -1,25 +1,27 @@
 ## Welcome to my GitHub page!
 #### A Physics graduate student trying to not 'code like a Physicist.'
 
-### Projects
+### Current Projects
 <a href="https://github.com/mellebolding/FDT_ADNI" target="_blank">
   📂 Master Thesis Codes (active)
 </a>
 <br>
+
+### Previous Projects
 <a href="https://github.com/mellebolding/NDDL" target="_blank">
-  📂 Loss function tweeking in energy SNN (not active since dec24)
+  📂 Loss function tweeking in energy SNN (dec24)
 </a>
 <br>
 <a href="https://github.com/mellebolding/FairShip" target="_blank">
-  📂 SHiP @ CERN (not active since sep24)
+  📂 SHiP @ CERN (sep24)
 </a>
 <br>
 <a href="https://github.com/mellebolding/ML4PHY24" target="_blank">
-  📂 Mini-project on curriculum learning (not active since jun24)
+  📂 Mini-project on curriculum learning (jun24)
 </a>
 <br>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
-  📂 Bachelor Thesis Codes (not active since jul23)
+  📂 Bachelor Thesis Codes (jul23)
 </a>
 
 <br><br>
