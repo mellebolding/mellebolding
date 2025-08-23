@@ -6,6 +6,10 @@
   📂 Master Thesis Codes (active)
 </a>
 <br>
+<a href="https://github.com/mellebolding/NDDL" target="_blank">
+  📂 Loss function tweeking in energy SNN (not active since dec24)
+</a>
+<br>
 <a href="https://github.com/mellebolding/FairShip" target="_blank">
   📂 SHiP @ CERN (not active since sep24)
 </a>
