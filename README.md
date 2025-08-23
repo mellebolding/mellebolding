@@ -1,9 +1,13 @@
 ## Welcome to my GitHub page!
 #### A Physics graduate student trying to not 'code like a Physicist.'
-<br>
+
 ### Projects
+
+<a href="https://github.com/mellebolding/FairShip" target="_blank">
+  📂 SHiP @ CERN (not active)
+</a>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
-  📂 Bachelor Thesis Codes
+  📂 Bachelor Thesis Codes (not active)
 </a>
 
 <br><br>
