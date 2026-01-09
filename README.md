@@ -4,14 +4,14 @@ About me: I'm a physics graduate trying to not 'code like a physicist.'
 Mostly, I have a bit of experience using Python (some PyTorch) and some small projects in C++.
 
 ### Current Projects
-<a href="https://github.com/mellebolding/linhopf_fdt_adni" target="_blank">
-  📂 MSc thesis: non-equilibrium dynamics (FDT) in Alzheimer's using linear Hopf model
-</a>
-<br>
 
 ### Previous Projects
+<a href="https://github.com/mellebolding/linhopf_fdt_adni" target="_blank">
+  📂 MSc thesis: non-equilibrium dynamics (FDT) in Alzheimer's using linear Hopf model @ UPF (dec25)
+</a>
+<br>
 <a href="https://github.com/mellebolding/NDDL" target="_blank">
-  📂 Loss function tweeking in energy SNN (dec24)
+  📂 Loss function tweeking in energy SNN @ UvA (dec24)
 </a>
 <br>
 <a href="https://github.com/mellebolding/FairShip" target="_blank">
@@ -19,11 +19,11 @@ Mostly, I have a bit of experience using Python (some PyTorch) and some small pr
 </a>
 <br>
 <a href="https://github.com/mellebolding/ML4PHY24" target="_blank">
-  📂 Mini-project on curriculum learning (jun24)
+  📂 Mini-project on curriculum learning @ UvA (jun24)
 </a>
 <br>
 <a href="https://github.com/mellebolding/BachelorThesisCodes" target="_blank">
-  📂 BSc thesis: PYTHIA simulations (jul23)
+  📂 BSc thesis: PYTHIA simulations @ GRASP, UU (jul23)
 </a>
 
 <br><br>
