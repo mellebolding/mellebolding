@@ -7,7 +7,7 @@ Mostly, I have a bit of experience using Python (some PyTorch) and some small pr
 
 ### Previous Projects
 <a href="https://github.com/mellebolding/linhopf_fdt_adni" target="_blank">
-  📂 MSc thesis: non-equilibrium dynamics (FDT) in Alzheimer's using linear Hopf model @ UPF (dec25)
+  📂 MSc thesis: non-equilibrium dynamics (FDT) in Alzheimer's using linear Hopf model @ UPF, UvA (dec25)
 </a>
 <br>
 <a href="https://github.com/mellebolding/NDDL" target="_blank">
